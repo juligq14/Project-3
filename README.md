@@ -6,7 +6,7 @@ Summary: This static we app uses React, CSS, and JavaScript to display random en
 
 Technologies Used: Javascript, React, CSS
 
-Cloning the Repository: https://github.com/juligq14/meow-facts-app.git
+Cloning the Repository: https://github.com/juligq14/Project-3
 
 Requirements: Internet access, Sandbox
 
